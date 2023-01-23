@@ -1,2 +1,2 @@
-# ICS2O1
-All of my work done in ICS2O1 - grade 10 CS
+# ICS2O1 Turtle Assignment
+Assigned in grade 10 CS
